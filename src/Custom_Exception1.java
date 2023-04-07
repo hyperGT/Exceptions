@@ -3,7 +3,7 @@ import CustomsExceptions.OpenFileException;
 import javax.swing.*;
 import java.io.*;
 
-public class Custom_Exceptions1 {
+public class Custom_Exception1 {
 
     public static void main(String[] args) {
 
